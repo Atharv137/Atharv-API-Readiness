@@ -1,13 +1,13 @@
 # Netflix Profile API
 
 ## Live Deployment URL
-https://netflix-profile-api.onrender.com
+https://atharv-api-readiness.onrender.com/health
 
 ## Swagger Documentation URL
-https://netflix-profile-api.onrender.com/api-docs
+https://atharv-api-readiness.onrender.com/api-docs/
 
 ## GitHub Repository Link
-https://github.com/rishirbagal-cyber/netflix-profile
+https://github.com/Atharv137/Atharv-API-Readiness
 
 ## Required Environment Variables
 PORT
